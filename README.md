@@ -1,5 +1,9 @@
-# School-Game-1
+# Video Games I built
 
 Both games found in this repository were made using the p5 javascript program. One game is a shooter type game surrounding a bunny story, the other is a basketball based game.
 
-Running the program on p5.js will give you instructions for how to play the game, the objectives, and the design.
+Here is the original version found on P5.js:
+
+Bunny Defense: https://editor.p5js.org/rayofthesun/full/umUBvSXUG
+
+Fling Shot: https://editor.p5js.org/rayofthesun/full/SlzmulN4W
